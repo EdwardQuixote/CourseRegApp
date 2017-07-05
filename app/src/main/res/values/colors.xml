@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="clrColorPrimary">@color/clrOrange</color>
+    <color name="clrColorPrimaryDark">@color/clrOrange</color>
+    <color name="clrColorAccent">@color/clrBlue</color>
+
+    <color name="clrOrange">#FF5500</color>
+    <color name="clrWhite">#FFFFFF</color>
+    <color name="clrBlack">#000000</color>
+    <color name="clrDateColor">#999999</color>
+    <color name="clrGray">#999999</color>
+    <color name="clrBlue">#0066CC</color>
+    <color name="clrGold">#E6B121</color>
+    <color name="clrBlueBack">#99FFFF</color>
+    <color name="clrArticleColor">#3399FF</color>
+    <color name="clrArticleTitle">#3399FF</color>
+</resources>

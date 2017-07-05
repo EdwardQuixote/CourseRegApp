@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">CourseRegApp</string>
+
+    <string name="sBSCIT">BSc. Information Technology</string>
+    <string name="sBBIT">BB. Information Technology</string>
+    <string name="sBSCICT">BSc. Information, Communication &amp; Technology</string>
+    <string name="sBSCCS">BSc. Computer Science</string>
+    <string name="sFullTime">Full Time</string>
+    <string name="sPartTime">Part Time</string>
+    <string name="sTagSignUp">ke.co.edwardquixote.cw_course_registration.SIGN_UP</string>
+    <string name="sTagSignIn">ke.co.edwardquixote.cw_course_registration.SIGN_IN</string>
+    <string name="sTagRegisterCourse">ke.co.edwardquixote.cw_course_registration.REGISTER_COURSE</string>
+
+    <string name="edUsername">Username</string>
+    <string name="edPassword">Password</string>
+    <string name="edConfirmPassword">Confirm Password</string>
+    <string name="edStudentID">Student ID</string>
+    <string name="edStudentName">What\'s your Full Name</string>
+    <string name="edFirstName">First Name</string>
+    <string name="edMiddleName">Middle Name</string>
+    <string name="edSurname">Surname</string>
+    <string name="edRegNumber">Registration Number</string>
+
+    <string name="radFullTime">Full-Time</string>
+    <string name="radPartTime">Part-Time</string>
+
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnFOCIM">FOCIM</string>
+    <string name="btnSPP">SPP</string>
+    <string name="btnSOB">SOB</string>
+    <string name="btnFOED">FOED</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnSubmit">Submit Info</string>
+
+    <string name="txtSignIn">Sign In,</string>
+    <string name="txtDepartments">Departments. . . .</string>
+    <string name="txtFOCIM">FOCIM Department</string>
+    <string name="txtSPP">SPP Department</string>
+    <string name="txtFOED">FOED Department</string>
+    <string name="txtSOB">SOB Department</string>
+    <string name="txtBSCITInfo">Undertake a degree in Information Technology. A world leading degree.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtBBITInfo">Undertake a degree in Business and Information Technology. A world leading degree.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtBSCICTInfo">Undertake a degree in Information, Communication and Technology. A world leading degree.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtBSCCSInfo">Undertake a degree in Computer Science. A world leading degree.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtCPAInfo">Undertake a certificate in the Certified Public Accountance course. A world leading career.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtACCAInfo">Undertake a certificate in the ACCA course. A world leading career.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtComputerPackagesInfo">Undertake a certificate in the Computer Packages course. A world leading career.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtComputerProgrammingInfo">Undertake a certificate in the Computer Programming course. A world leading career.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtCCNAInfo">Undertake a certificate in the CCNA course. A world leading career.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtCISCOInfo">Undertake a certificate in the CISCO course. A world leading career.\n\n\n\n REGISTER NOW!</string>
+    <string name="txtNoOfUnits">Number of Units:</string>
+    <string name="txt52Units">52 Units</string>
+    <string name="txtFeePerUnit">Fee per Unit:</string>
+    <string name="txt10K">KES 10,000</string>
+    <string name="txtTotal">Total Units Fee:</string>
+    <string name="txt520K">KES 520,000</string>
+    <string name="txtNoAccount">No Account? Sign Up!</string>
+
+    <string name="inCOURSE">ke.co.edwardquixote.cw_course_registration.COURSE</string>
+    <string name="inFOCIM_BSCIT">ke.co.edwardquixote.cw_course_registration.FOCIM_BSCIT</string>
+    <string name="inFOCIM_BBIT">ke.co.edwardquixote.cw_course_registration.FOCIM_BBIT</string>
+    <string name="inFOCIM_BSCICT">ke.co.edwardquixote.cw_course_registration.FOCIM_BSCICT</string>
+    <string name="inFOCIM_BSCCS">ke.co.edwardquixote.cw_course_registration.FOCIM_BSCCS</string>
+    <string name="inSPP_CPA">ke.co.edwardquixote.cw_course_registration.SPP_CPA</string>
+    <string name="inSPP_ACCA">ke.co.edwardquixote.cw_course_registration.SPP_ACCA</string>
+    <string name="inSPP_COMPUTERPACKAGES">ke.co.edwardquixote.cw_course_registration.SPP_COMPUTERPACKAGES</string>
+    <string name="inSPP_COMPUTERPROGRAMMING">ke.co.edwardquixote.cw_course_registration.SPP_COMPUTERPROGRAMMING</string>
+    <string name="inSPP_CCNA">ke.co.edwardquixote.cw_course_registration.SPP_CCNA</string>
+    <string name="inSPP_CISCO">ke.co.edwardquixote.cw_course_registration.SPP_CISCO</string>
+
+    <string name="dgEmptyField">Please provide your </string>
+    <string name="dgPasswordMismatch">Please confirm your Password Correctly!</string>
+
+    <string-array name="saryFOCIMCourses">
+        <item>BSc.IT</item>
+        <item>BB.IT</item>
+        <item>BSc.ICT</item>
+        <item>BSc.CS</item>
+    </string-array>
+    <string-array name="sarySPPCourses">
+        <item>CPA</item>
+        <item>ACCA</item>
+        <item>Computer Packages</item>
+        <item>Computer Programming</item>
+        <item>CCNA</item>
+        <item>CISCO</item>
+    </string-array>
+    <string-array name="saryFOEDCourses">
+        <item>Pure Maths</item>
+        <item>Pure Sciences</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+    </string-array>
+    <string-array name="sarySOBCourses">
+        <item>B.COM</item>
+        <item>Procurement And Supplies</item>
+        <item>International Relations</item>
+        <item>Business Administration</item>
+        <item>Management and Marketing</item>
+    </string-array>
+</resources>
